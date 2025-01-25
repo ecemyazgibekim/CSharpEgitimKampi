@@ -1,0 +1,7 @@
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+D:\cSharpEgitimkampi\CsharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
